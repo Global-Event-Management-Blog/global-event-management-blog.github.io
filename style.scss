@@ -172,7 +172,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $Gray;
+  border-bottom: 1px solid $gray;
 
   @include mobile {
     text-align: center;
@@ -259,7 +259,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $Gray;
+  border-bottom: 1px solid $gray;
 }
 
 .posts > .post:last-child {
