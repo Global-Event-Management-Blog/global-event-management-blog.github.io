@@ -24,7 +24,7 @@ html {
 body {
   background: #fff;
   font: 18px/1.4 $helvetica;
-  color: $white;
+  color: #000;
 }
 
 .container {
@@ -133,16 +133,16 @@ img {
 
 .date {
   font-style: italic;
-  color: $white;
+  color: #000;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: #000;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: #000;
   background: $lightGray;
 }
 
@@ -272,7 +272,7 @@ nav {
     margin: 1.8em 0.8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #000;
     font-size: 22px;
     font-style: italic;
   }
