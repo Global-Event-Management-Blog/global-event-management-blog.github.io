@@ -51,6 +51,6 @@ To bring your vision to life, you'll need a range of materials and resources. He
 - Catering services that offer a diverse and exquisite menu
 - Professional photographers and videographers to capture the event
 
-By embracing these strategies, event management bureaus can create unforgettable experiences that captivate and inspire, drawing from the opulent and innovative style of Mukesh Ambani. For more tips and insights on event management trends, visit [Event Management Insights](https://www.eventmanagementinsights.com).
+By embracing these strategies, event management bureaus can create unforgettable experiences that captivate and inspire, drawing from the opulent and innovative style of Mukesh Ambani. For more tips and insights on event management trends, visit [Global Event Management](https://geventm.com/).
 
 Incorporating Mukesh Ambani's event management style not only elevates the guest experience but also sets a new standard for luxury and creativity in the industry.
