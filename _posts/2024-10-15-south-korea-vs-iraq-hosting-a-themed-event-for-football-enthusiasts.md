@@ -1,6 +1,6 @@
 ---
 layout: post
-title: South Korea vs Iraq: Hosting a Themed Event for Football Enthusiasts
+title: South Korea vs Iraq Hosting a Themed Event for Football Enthusiasts
 ---
 
 
