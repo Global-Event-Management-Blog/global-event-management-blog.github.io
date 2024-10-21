@@ -51,6 +51,6 @@ To truly capture the essence of Kerala, consider integrating elements like tradi
 
 By incorporating these elements, your event will not only stand out but also provide guests with a memorable cultural journey.
 
-For more innovative event ideas inspired by cultures worldwide, visit [G Event Management](https://geventm.com/).
+For more innovative event ideas inspired by cultures worldwide, visit [Global Event Management](https://geventm.com/).
 
 Incorporating the beauty and traditions of Kerala into your events can be a unique way to engage and entertain your guests. Whether through traditional games, music, or decor, the possibilities are endless for creating an event that resonates with the charm of this enchanting region.
