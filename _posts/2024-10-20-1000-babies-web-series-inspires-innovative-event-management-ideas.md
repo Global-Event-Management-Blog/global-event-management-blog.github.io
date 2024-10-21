@@ -34,6 +34,6 @@ Inspired by the web series, here are some creative event ideas that can bring a 
 
 ## Partner with the Experts
 
-To bring these innovative ideas to life, partnering with an experienced event management bureau is essential. Expert event planners have the skills and resources to transform your vision into reality, ensuring a flawless and unforgettable experience. For those looking to create extraordinary events inspired by the "1000 Babies" web series, consider reaching out to [Gevent Management](https://geventm.com/).
+To bring these innovative ideas to life, partnering with an experienced event management bureau is essential. Expert event planners have the skills and resources to transform your vision into reality, ensuring a flawless and unforgettable experience. For those looking to create extraordinary events inspired by the "1000 Babies" web series, consider reaching out to [Global Event Management](https://geventm.com/).
 
 In conclusion, the "1000 Babies" web series offers a wealth of inspiration for event managers. By embracing storytelling, diversity, multimedia engagement, and social media integration, planners can create events that are as captivating and memorable as the series itself. With the right partner like Gevent Management, the possibilities are endless.
