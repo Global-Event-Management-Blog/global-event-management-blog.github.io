@@ -41,4 +41,4 @@ The rivalry between Tottenham and West Ham doesn't end when the final whistle bl
 
 The Tottenham vs West Ham match is more than just a sporting event; it's a masterclass in engagement, planning, and execution. By adopting these lessons, event management bureaus can elevate their offerings, ensuring a memorable experience for all attendees.
 
-For more insights and expert event management services, visit [G Event Management](https://geventm.com/).
+For more insights and expert event management services, visit [Global Event Management](https://geventm.com/).
