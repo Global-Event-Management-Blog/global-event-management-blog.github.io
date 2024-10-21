@@ -48,4 +48,4 @@ Another trend gaining momentum at Gitex Dubai is sustainability. Events that pri
 
 Gitex Dubai is a treasure trove of inspiration for those in the event management industry. By embracing technology, enhancing networking, and adopting sustainable practices, event management bureaus can elevate their offerings and stay ahead of industry trends.
 
-For more insights into innovative event management solutions, visit [Geventm](https://geventm.com/).
+For more insights into innovative event management solutions, visit [Global Event Management](https://geventm.com/).
