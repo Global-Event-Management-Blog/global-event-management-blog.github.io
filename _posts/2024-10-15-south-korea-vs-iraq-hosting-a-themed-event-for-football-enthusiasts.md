@@ -49,4 +49,4 @@ To keep non-playing attendees entertained:
 
 By carefully planning and executing a South Korea vs Iraq themed event, you can offer an unforgettable experience that celebrates the rich cultures and football prowess of both nations. For event management bureaus looking to create such dynamic events, attention to detail and a focus on engagement are key.
 
-For professional event management services, visit [GEventM](https://geventm.com/) to bring your vision to life.
+For professional event management services, visit [Global Event Management](https://geventm.com/) to bring your vision to life.
