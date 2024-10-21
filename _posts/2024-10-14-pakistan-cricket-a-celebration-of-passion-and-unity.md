@@ -51,6 +51,6 @@ Leverage the power of digital marketing to promote your event. Utilize social me
 
 ## Conclusion
 
-Cricket-themed events can capture the heart and soul of Pakistan’s vibrant cricket culture. By carefully planning and executing an event that celebrates the passion of cricket, you can create a memorable experience for fans and participants alike. For more information on organizing successful events, visit [Gevent Management](https://geventm.com/).
+Cricket-themed events can capture the heart and soul of Pakistan’s vibrant cricket culture. By carefully planning and executing an event that celebrates the passion of cricket, you can create a memorable experience for fans and participants alike. For more information on organizing successful events, visit [Global Event Management](https://geventm.com/).
 
 Embrace the spirit of Pakistan cricket and create an event that echoes with enthusiasm, joy, and unity.
