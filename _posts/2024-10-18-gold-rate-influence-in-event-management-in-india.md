@@ -31,6 +31,6 @@ Gold-themed events are not just a local trend; they are attracting global attent
 
 If you are looking to host a gold-themed event that dazzles and delights, partnering with a professional event management bureau is essential. With their expertise in trend analysis and creative execution, they can bring your vision to life with precision and flair.
 
-For a seamless and unforgettable event experience, visit [G Event Management](https://geventm.com/) and explore how they can help you turn your golden dreams into reality. Their team of seasoned professionals is ready to assist you in planning an event that shines with the elegance and richness of gold.
+For a seamless and unforgettable event experience, visit [Global Event Management](https://geventm.com/) and explore how they can help you turn your golden dreams into reality. Their team of seasoned professionals is ready to assist you in planning an event that shines with the elegance and richness of gold.
 
 As the gold rate in India continues to influence trends, event management bureaus remain at the forefront of innovation, crafting experiences that are as timeless and cherished as the metal itself.
