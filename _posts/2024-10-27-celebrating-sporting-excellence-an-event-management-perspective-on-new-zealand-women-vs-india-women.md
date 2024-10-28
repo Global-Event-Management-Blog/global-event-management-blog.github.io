@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Celebrating Sporting Excellence An Event Management Perspective on New Zealand Women vs India Women**
+title: Celebrating Sporting Excellence An Event Management Perspective on New Zealand Women vs India Women
 ---
 
 
