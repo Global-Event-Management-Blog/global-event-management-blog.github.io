@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Colorectal Cancer Awareness Events: A Guide for Event Planners
+title: Understanding Colorectal Cancer Awareness Events A Guide for Event Planners
 ---
 
 
