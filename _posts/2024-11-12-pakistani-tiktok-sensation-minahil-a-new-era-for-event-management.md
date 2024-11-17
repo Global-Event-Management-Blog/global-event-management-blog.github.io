@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pakistani TikTok Sensation Minahil: A New Era for Event Management
+title: Pakistani TikTok Sensation Minahil A New Era for Event Management
 ---
 
 
