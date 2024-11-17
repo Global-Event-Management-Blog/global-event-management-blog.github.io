@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Babar Azam: Inspiring Event Management with Leadership and Grace
+title: Babar Azam Inspiring Event Management with Leadership and Grace
 ---
 
 
