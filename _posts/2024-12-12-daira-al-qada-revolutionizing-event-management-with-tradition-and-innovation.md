@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daira Al Qada: Revolutionizing Event Management with Tradition and Innovation
+title: Daira Al Qada - Revolutionizing Event Management with Tradition and Innovation
 ---
 
 
