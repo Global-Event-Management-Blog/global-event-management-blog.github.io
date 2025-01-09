@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syrian Air: Elevating Event Experiences with Unique Inspirations
+title: Syrian Air - Elevating Event Experiences with Unique Inspirations
 ---
 
 
