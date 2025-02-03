@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Title: ICC Champions Trophy 2025 Tickets: A Masterclass in Event Coordination"
+title: "ICC Champions Trophy 2025 Tickets: A Masterclass in Event Coordination"
 date: 2025-02-03 16:09:03 +0400
 ---
 
